@@ -1,0 +1,12 @@
+<button onclick="quandoClicar()">SOM</button>
+<button onclick="pararSom()">PARAR</button>
+<script>
+    var audio = new Audio('ponto.mp3');
+    function quandoClicar() {
+        console.log("clicou");
+        audio.play();
+    }
+    function pararSom() {
+     audio.pause();
+    }
+</script>

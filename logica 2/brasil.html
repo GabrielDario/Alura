@@ -1,0 +1,24 @@
+<canvas width="500" height="350">
+
+</canvas>
+<a href="programa.html"></a>
+<script>
+    var tela = document.querySelector("canvas");
+    var pincel = tela.getContext("2d");
+   
+   pincel.fillStyle = "#289b24";
+   pincel.fillRect(0,0,500,350);
+   
+     pincel.fillStyle = "#FFFF00";
+     pincel.beginPath();
+     pincel.moveTo(250,20);
+     pincel.lineTo(20,200);
+     pincel.lineTo(250,330);
+     pincel.lineTo(480,200);
+     pincel.fill();
+     
+    pincel.beginPath();
+    pincel.fillStyle = "#00257B";
+    pincel.arc(250,175,95,0,2*3.14);
+     pincel.fill();
+</script>

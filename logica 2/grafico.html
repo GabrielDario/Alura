@@ -1,0 +1,38 @@
+<canvas width="400" height="300">
+
+</canvas>
+<script>
+
+    function pintarGraficos(x, y, h, color) {
+        var tela = document.querySelector("canvas");
+        var pincel = tela.getContext("2d");
+
+        pincel.fillStyle = color;
+        pincel.fillRect(x, y, 50, h);
+        pincel.strokeRect(x, y, 50, h); //borda
+    }
+    function desenhaTexto(x,y,texto) {
+        console.log("foi");
+        var tela = document.querySelector('canvas');
+        var pincel = tela.getContext('2d');
+
+        pincel.font = '20px Georgia';
+        pincel.fillStyle = 'black';
+        pincel.fillText(texto, x, y);
+    }
+
+    desenhaTexto(0, 125,"2015");
+    desenhaTexto(100, 125,"2016");
+
+
+    pintarGraficos(0,0, 50, "blue");
+    pintarGraficos(0,50, 25, "green");
+    pintarGraficos(0,75, 20, "yellow");
+    pintarGraficos(0,95, 5, "red");
+
+    pintarGraficos(100,0, 65, "blue");
+    pintarGraficos(100,65, 20, "green");
+    pintarGraficos(100,85, 13, "yellow");
+    pintarGraficos(100,98, 2, "red");
+
+</script>

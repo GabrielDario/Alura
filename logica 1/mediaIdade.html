@@ -1,0 +1,24 @@
+<meta charset="UTF-8">
+
+<script>
+    function pulaLinha() {
+        document.write("<br>");
+    }
+    function mostrar(frase) {
+        document.write(frase);
+        pulaLinha();
+    }
+
+    var totalPessoas = parseInt(prompt("Quantidade de pessoas?"));
+    var i = 0;
+    var mediaIdade = 0;
+    while(i < totalPessoas) {
+        var idade = parseInt(prompt("Digite a idade do membro"));
+        mediaIdade = mediaIdade +  idade;
+        i++;
+    }
+    mediaIdade = mediaIdade / totalPessoas;
+    mostrar(mediaIdade);
+
+</script>
+

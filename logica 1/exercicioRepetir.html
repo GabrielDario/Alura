@@ -1,0 +1,64 @@
+<meta charset="UTF-8">
+
+<script>
+    function pulaLinha() {
+        document.write("<br>");
+    }
+    function mostrar(frase) {
+        document.write(frase);
+        pulaLinha();
+    }
+    mostrar("Exercicio 1");
+    var limite = 1;
+    while (limite <= 100) {
+        if (limite % 2 == 0) {
+            mostrar("Impar " + limite);
+            limite = limite + 1;
+        } else {
+            limite = limite + 1;
+        }
+    }
+
+    mostrar("Deu 1");
+    pulaLinha();
+    mostrar("Exercicio 2");
+
+    limite = 30;
+
+    while (limite <= 40) {
+        if (limite == 33 || limite == 37) {
+            limite = limite + 1;
+        } else {
+            mostrar(limite);
+            limite = limite + 1;
+        }
+    }
+
+    pulaLinha();
+    mostrar("Exercicio 3");
+    limite = 20;
+    console.log(limite);
+
+    while (limite >= 0) {
+        mostrar(limite);
+        limite = limite - 1;
+    }
+
+    pulaLinha();
+    mostrar("Exercicio 4");
+
+    var anoCopa = 1930;
+    var limiteCopa = parseInt(prompt("Qual é o ano limite?"));
+
+    while (anoCopa < limiteCopa) {
+        mostrar(anoCopa + " tem copa!");
+        anoCopa = anoCopa + 4;
+    }
+
+
+    mostrar("Ufa! Esses foram os anos de copa até " + limiteCopa);
+
+  
+
+</script>
+
