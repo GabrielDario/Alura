@@ -11,13 +11,11 @@ class FormCadastro extends Component {
   _handleMudancaTitulo(event) {
    this.titulo = event.target.value;
    event.stopPropagation();
-   console.log(this.titulo);
   }
 
   _handleMudancaTexto(event) {
     this.texto = event.target.value;
     event.stopPropagation();
-    console.log(this.texto);
    }
 
   _criarNota(event){

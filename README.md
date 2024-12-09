@@ -15,3 +15,8 @@ Plugins, Separando e padronizando componentes,Integrando Js,Estelisando,Organiza
 
 04/12 - 12:42,4:50,10:48 - TOTAL 27,4
 Lidando com evento,problemas com metodos construtor e referencia,proriedades
+
+SEMANAL - 172,5 MINUTOS
+
+09/12 - 7:35, 15:42, 4:53
+Propriedades,State,Conclusao
