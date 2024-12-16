@@ -22,3 +22,8 @@ SEMANAL - 172,5 MINUTOS
 Propriedades,State,Conclusao
 11/12 - 6:04,18:04,19:26
 React 2024-começando organo
+
+SEMANAL - 70,64 MINUTOS
+
+16/12 8:59, 25:40,11:32, 11:44
+organizando projeto, form.label,parametros..
