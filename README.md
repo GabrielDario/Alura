@@ -27,3 +27,5 @@ SEMANAL - 70,64 MINUTOS
 
 16/12 8:59, 25:40,11:32, 11:44
 organizando projeto, form.label,parametros..
+
+23/12 5:43,20:23
