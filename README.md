@@ -37,3 +37,8 @@ SEMANA - 56,75
 23/12 5:43,20:23 Listas de time
 26/12 10:10,8:56 ,11:23 ,17:56, 11:11
 Botao Interação,PROPS,maps,onSubmit,onChange,State
+
+SEMANAL - 84,22
+------------------------------------------
+02/01 - 19:53, 
+TIME

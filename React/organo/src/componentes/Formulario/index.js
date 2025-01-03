@@ -4,7 +4,7 @@ import ListaSuspensa from '../ListaSuspensa'
 import './Formulario.css'
 import { useState} from 'react'
 
-const Formulario = () => {
+const Formulario = (props) => {
 
     const times = [
         'Programação',
