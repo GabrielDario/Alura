@@ -40,5 +40,6 @@ Botao Interação,PROPS,maps,onSubmit,onChange,State
 
 SEMANAL - 84,22
 ------------------------------------------
-02/01 - 19:53, 
-TIME
+02/01 - 19:53
+03/01 - 26:31,7:09
+TIME,refatorando
