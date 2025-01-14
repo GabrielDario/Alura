@@ -43,8 +43,15 @@ SEMANAL - 84,22
 02/01 - 19:53
 03/01 - 26:31,7:09
 
-SEMANAL - 52,93
 TIME,refatorando
+SEMANAL - 52,93
 ------------------------------------------
 07/01 - 9:14, 15:56
 Card, Mapeando Colaborador
+09/01 - 10:28
+
+SEMANAL - 34,88
+------------------------------------------
+13/01 - 7:42,7:27,4:03
+Corrigindo e depurando,vercel
+SEMANAL - 
