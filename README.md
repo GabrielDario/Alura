@@ -54,4 +54,9 @@ SEMANAL - 34,88
 ------------------------------------------
 13/01 - 7:42,7:27,4:03
 Corrigindo e depurando,vercel
+14/01 - 1:48,6:09,6:25,9:03,10:21,9:45
+Explicando o projeto em si
+github,botao deletar
+
 SEMANAL - 
+------------------------------------------
