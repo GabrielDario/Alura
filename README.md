@@ -57,6 +57,9 @@ Corrigindo e depurando,vercel
 14/01 - 1:48,6:09,6:25,9:03,10:21,9:45
 Explicando o projeto em si
 github,botao deletar
-
+15/01 - 6:23,11:02,13:52,9:51,7:07,10:54
+alterar cor do time dinamicamente
+Criando ids com package,deletando colaborador
+Criando time
 SEMANAL - 
 ------------------------------------------
