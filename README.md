@@ -61,5 +61,7 @@ github,botao deletar
 alterar cor do time dinamicamente
 Criando ids com package,deletando colaborador
 Criando time
+16/01 12:21,11:20,18:19,2:31
+
 SEMANAL - 
 ------------------------------------------
