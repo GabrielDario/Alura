@@ -4,7 +4,8 @@ import Formulario from "./componentes/Formulario";
 import Rodape from "./componentes/Rodape";
 import Time from "./componentes/Time";
 import { v4 as uuidv4 } from 'uuid';
-// import { useAlert } from "react-alert";
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 function App() {
 

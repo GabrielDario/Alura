@@ -3,6 +3,7 @@ import Botao from '../Botao'
 import Campo from '../Campo'
 import ListaSuspensa from '../ListaSuspensa'
 import './formulario.css'
+import { Alert } from 'react-bootstrap';
 
 const Formulario = ({ aoCadastrar, times, cadastrarTime }) => {
 
@@ -16,7 +17,6 @@ const Formulario = ({ aoCadastrar, times, cadastrarTime }) => {
 
     const aoSubmeter = (evento) => {
         evento.preventDefault()
-        console.log('form enviado', nome, cargo, imagem, time)
         aoCadastrar({
             nome,
             cargo,
@@ -28,11 +28,33 @@ const Formulario = ({ aoCadastrar, times, cadastrarTime }) => {
         setImagem('');
         setTime('')
     }
+    const [sucessoColaborador, setSucessoColaborador] = useState(false);
+    const [sucessoTime, setSucessoTime] = useState(false);
 
+    const colaboradorSucesso = () => {
+        console.log('aquii')
+        setSucessoColaborador(true); 
+
+   
+        setTimeout(() => {
+            setSucessoColaborador(false);
+        }, 3000); 
+    };
+
+    const timeSucesso = () => {
+        console.log('aquii')
+        setSucessoTime(true); 
+        setTimeout(() => {
+            setSucessoTime(false);
+        }, 3000); 
+    };
     return (
+
         <section className="formulario-container">
+
             <form className="formulario" onSubmit={aoSubmeter}>
                 <h2>Preencha os dados para criar o card do colaborador.</h2>
+
                 <Campo
                     obrigatorio={true}
                     label='Nome'
@@ -56,7 +78,12 @@ const Formulario = ({ aoCadastrar, times, cadastrarTime }) => {
                     items={times}
                     valor={time}
                     aoAlterado={valor => setTime(valor)} />
-                <Botao texto='Criar card' />
+                <Botao texto='Criar card' onClick={colaboradorSucesso} />
+                {sucessoColaborador && (
+                    <Alert variant="success">
+                        Colaborador Criado!
+                    </Alert>
+                )}
             </form>
 
 
@@ -81,7 +108,13 @@ const Formulario = ({ aoCadastrar, times, cadastrarTime }) => {
                     placeholder='Digite a cor do time'
                     valor={corTime}
                     aoAlterado={valor => setCorTime(valor)} />
-                <Botao texto='Criar um novo time' />
+                <Botao texto='Criar card' onClick={timeSucesso} />
+
+                {sucessoTime && (  
+                <Alert variant="success">
+                    Time Criado!
+                </Alert>
+                )}
             </form>
         </section>
     )
