@@ -63,5 +63,7 @@ Criando ids com package,deletando colaborador
 Criando time
 16/01 12:21,11:20,18:19,2:31
 
-SEMANAL - 
+SEMANAL - 163,03
 ------------------------------------------
+20/01 - 27:28
+Hooks (adicional)

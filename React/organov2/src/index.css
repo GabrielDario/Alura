@@ -9,7 +9,18 @@ body {
 .times {
   text-align: center;
 }
-
+.esconderForm {
+  text-align: right;
+}
+.esconderForm h1 {
+  font-size: 32px;
+  color: black;
+  border: none;
+  margin: 32px 0;
+}
+.botaoEsconder img{
+    height: 50px;
+}
 h1 {
   font-size: 40px;
   color: #6278F7;

@@ -23,6 +23,10 @@ const Formulario = ({ aoCadastrar, times, cadastrarTime }) => {
             imagem,
             time
         })
+        setNome('');
+        setCargo('');
+        setImagem('');
+        setTime('')
     }
 
     return (
@@ -43,6 +47,7 @@ const Formulario = ({ aoCadastrar, times, cadastrarTime }) => {
                     aoAlterado={valor => setCargo(valor)} />
                 <Campo
                     label='Imagem'
+                    valor={imagem}
                     placeholder='Informe o endereço da imagem '
                     aoAlterado={valor => setImagem(valor)} />
                 <ListaSuspensa
@@ -59,6 +64,8 @@ const Formulario = ({ aoCadastrar, times, cadastrarTime }) => {
                 onSubmit={(e) => {
                     e.preventDefault();
                     cadastrarTime({ nome: nomeTime, cor: corTime })
+                    setNomeTime('');
+                    setCorTime('#fff');
                 }}>
                 <h2>Preencha os dados para criar o um novo time</h2>
                 <Campo

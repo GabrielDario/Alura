@@ -4,8 +4,11 @@ import Formulario from "./componentes/Formulario";
 import Rodape from "./componentes/Rodape";
 import Time from "./componentes/Time";
 import { v4 as uuidv4 } from 'uuid';
+// import { useAlert } from "react-alert";
 
 function App() {
+
+  let [esconder,setEsconder] = useState(true);
 
   const [times, setTimes] = useState([
     {
@@ -250,6 +253,7 @@ function App() {
       return time;
     }))
   }
+
   function deletarColaborador(id) {
     setColaboradores(colaboradores.filter(colaborador => colaborador.id !== id));
   }
@@ -257,21 +261,42 @@ function App() {
   function cadastrarTime(novoTime) {
     setTimes([...times, { ...novoTime, id: uuidv4() }]);
   }
+
   function resolverFavorito(id) {
     setColaboradores(colaboradores.map(colaborador => {
-      if(colaborador.id === id) colaborador.favorito = !colaborador.favorito;
+      if (colaborador.id === id) colaborador.favorito = !colaborador.favorito;
       return colaborador;
     }))
+
+   
+  }
+
+  function esconderForm() {
+    if(esconder){
+      setEsconder(!esconder)
+    }else{
+      setEsconder(!esconder)
+    }
   }
   return (
     <div>
       <Banner />
-      <Formulario
+
+      {esconder && <Formulario
         cadastrarTime={cadastrarTime}
         times={times.map(time => time.nome)}
         aoCadastrar={colaborador =>
-          setColaboradores([...colaboradores, colaborador])} />
+          setColaboradores([...colaboradores, colaborador])} /> }
+      
+
+      <section className="esconderForm">
+        <h1>Esconde Formulário</h1>
+        <button className='botaoEsconder' onClick={() => esconderForm()}>
+          <img src='https://cdn-icons-png.flaticon.com/512/60/60533.png' alt='Logo do Organo'  />
+        </button>
+      </section>
       <section className="times">
+
         <h1>Minha organização</h1>
         {times.map((time, indice) =>
           <Time
