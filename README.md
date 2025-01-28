@@ -69,3 +69,10 @@ SEMANAL - 163,03
 Hooks (adicional)
 23/01 - 2:35,4:24,6:06,3:03,5:01,7:39,10:58,9:28
 SPA,React Router...
+
+SEMANAL - 135,22
+------------------------------------------
+27/01
+
+SEMANAL - 8:21,11:27,8:13,10:20
+OUTLET - ROTA ALINHAMENTE,ROTA PAI
