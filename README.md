@@ -72,7 +72,12 @@ SPA,React Router...
 
 SEMANAL - 135,22
 ------------------------------------------
-27/01
+27/01 - 8:21,11:27,8:13,10:20
+28/01 - 8:45,5:25,5:34,7:51
 
-SEMANAL - 8:21,11:27,8:13,10:20
+SEMANAL - 
+
 OUTLET - ROTA ALINHAMENTE,ROTA PAI
+Posts
+
+a
