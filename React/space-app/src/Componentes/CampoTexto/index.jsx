@@ -1,40 +1,39 @@
 import { styled } from "styled-components"
-import search from '/img/search.png'
+import search from '/icons/search.png'
 
 const ContainerEstilizado = styled.div`
-    position: relative;
-    display: inline-block;
+      position: relative;
+      display: inline-block;
 `;
 
-
 const CampoTextoEstilizado = styled.input`
-    height: 56px;
-    padding: 12px 16px;
-    border-radius: 10px;
-    border: 2px solid;
-    border-color: #C98CF1;
-    background: transparent;
+     width: 37.625rem;
+    height: 3.5rem;
+    background-color: transparent;
+    border: 2px solid #C98CF1;
+    border-radius: 0.625rem;
+    padding-left: 1rem;
     box-sizing: border-box;
-    width: 566px;
-    color: #D9D9D9;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 20px;
+    font-size: 1rem;
+    color: white;
+    font-size: 1.25rem;
+
+    &::placeholder{
+        color: white;
+        font-size: 1.25rem;
+    }
 `
 
 const IconeLupa = styled.img`
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    width: 38px;
-    height: 38px;
+ position: absolute;
+ right: 0.85rem;
 `;
 
-const CampoTexto = (props) => {
+const CampoTexto = ({searchField,changeSearch}) => {
     return (
         <ContainerEstilizado>
-            <CampoTextoEstilizado placeholder="O que você procura?" {...props} />
-            <IconeLupa src={search} alt="ícone de lupa" />
+            <CampoTextoEstilizado placeholder="O que você procura?" value={searchField} onChange={(e) => changeSearch(e.target.value)} />
+            <IconeLupa src={search} alt="Ícone de Lupa" />
         </ContainerEstilizado>
     )
 }

@@ -81,4 +81,9 @@ Post, Outros posts,Github,styled component
 
 SEMANAL - 133,82
 ------------------------------------------
-03/02 - 12:59,
+03/02 - 12:59,9:20
+04/02 - 11:47,8:48,8:33,14:19
+
+BARRA LATERAL - 
+
+SEMANAL - 
