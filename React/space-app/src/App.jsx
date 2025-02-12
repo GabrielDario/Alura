@@ -5,6 +5,7 @@ import BarraLateral from "./Componentes/BarraLateral"
 import Banner from "./Componentes/Banner"
 import bannerBackground from './assets/banner.png'
 import Galeria from "./Componentes/Galeria"
+import Rodape from "./Componentes/Rodape"
 import fotos from './fotos.json'
 
 import { useState } from "react"
@@ -32,7 +33,15 @@ display: flex;
 flex-direction: column;
 flex-grow: 1;
 `
-
+const ConteudoRodape = styled.div`
+      margin-top: 4.5rem;
+    background-color: rgb(4, 36, 79);
+    height: 5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-inline: 3rem;
+`
 const App = () => {
   const [fotosDaGaleria, setFotosDaGaleria] = useState(fotos)
   const [fotoSelecionada, setFotoSelecionada] = useState(null);
@@ -50,7 +59,7 @@ const App = () => {
         favorita: fotoDaGaleria.id === foto.id ? !foto.favorita : fotoDaGaleria.favorita
       }
     }))
-}
+  }
 
   return (
     <FundoGradiente>
@@ -67,10 +76,10 @@ const App = () => {
               backgroundImage={bannerBackground}
             />
             <Galeria
-            aoFotoSelecionada={foto => setFotoSelecionada(foto)} 
-            aoAlternarFavorito={aoAlternarFavorito}
-            fotos={fotosDaGaleria}
-              />
+              aoFotoSelecionada={foto => setFotoSelecionada(foto)}
+              aoAlternarFavorito={aoAlternarFavorito}
+              fotos={fotosDaGaleria}
+            />
           </ConteudoGaleria>
         </MainContainer>
       </AppContainer>
@@ -78,7 +87,10 @@ const App = () => {
         foto={fotoSelecionada}
         aoFechar={() => setFotoSelecionada(null)}
         aoAlternarFavorito={aoAlternarFavorito}
-       />
+      />
+      <ConteudoRodape>
+        <Rodape />
+      </ConteudoRodape>
     </FundoGradiente>
   )
 }
