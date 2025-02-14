@@ -1,5 +1,6 @@
 import { styled } from 'styled-components';
 import tags from './tags.json'
+import BotaoIcone from '../../BotaoIcone';
 
 const TagsContainer = styled.section`
     display: flex;
@@ -35,11 +36,14 @@ const Div = styled.div`
     justify-content: end;
 `
 
-const Tags = () => {
+
+const Tags = ({aoAlterarGaleria}) => {
+
     return <TagsContainer>
         <TagTitulo>Busque por tags:</TagTitulo>
         <Div>
-            {tags.map(tag => <Tag key={tag.id}>{tag.titulo}</Tag>)}
+            {tags.map(tag =>
+                 <Tag key={tag.id} onClick={() => aoAlterarGaleria(tag.id)}>{tag.titulo}</Tag>)}
         </Div>
     </TagsContainer>
 }

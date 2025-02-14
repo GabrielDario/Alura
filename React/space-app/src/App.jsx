@@ -8,8 +8,10 @@ import Galeria from "./Componentes/Galeria"
 import Rodape from "./Componentes/Rodape"
 import fotos from './fotos.json'
 
-import { useState } from "react"
+import { useState,useEffect } from "react"
 import ModalZoom from "./Componentes/ModalZoom"
+
+
 const FundoGradiente = styled.div`
  background: linear-gradient(174.61deg, #041833 4.16%, #04244F 48%, #154580 96.76%);
  width: 100%;
@@ -43,9 +45,28 @@ const ConteudoRodape = styled.div`
     padding-inline: 3rem;
 `
 const App = () => {
+  
   const [fotosDaGaleria, setFotosDaGaleria] = useState(fotos)
   const [fotoSelecionada, setFotoSelecionada] = useState(null);
 
+  useEffect(() => {
+    console.log('Alterando fotos galeria APP')
+  }, [fotosDaGaleria]);
+  
+  const aoAlterarGaleria = (tag) => {
+    console.log('Ao alterando app')
+    
+    if(tag === 0) {
+      setFotosDaGaleria(fotos)
+    } else {
+      const filtrado = fotos.filter(foto => foto.tagId === tag);
+      console.log(filtrado)
+          
+      const novasFotos = filtrado;
+      setFotosDaGaleria(novasFotos)
+    }
+    
+  } 
   const aoAlternarFavorito = (foto) => {
     if (foto.id === fotoSelecionada?.id) {
       setFotoSelecionada({
@@ -79,6 +100,7 @@ const App = () => {
               aoFotoSelecionada={foto => setFotoSelecionada(foto)}
               aoAlternarFavorito={aoAlternarFavorito}
               fotos={fotosDaGaleria}
+              aoAlterarGaleria={aoAlterarGaleria}
             />
           </ConteudoGaleria>
         </MainContainer>
