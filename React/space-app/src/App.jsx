@@ -50,18 +50,14 @@ const App = () => {
   const [fotoSelecionada, setFotoSelecionada] = useState(null);
 
   useEffect(() => {
-    console.log('Alterando fotos galeria APP')
   }, [fotosDaGaleria]);
   
   const aoAlterarGaleria = (tag) => {
-    console.log('Ao alterando app')
     
     if(tag === 0) {
       setFotosDaGaleria(fotos)
     } else {
       const filtrado = fotos.filter(foto => foto.tagId === tag);
-      console.log(filtrado)
-          
       const novasFotos = filtrado;
       setFotosDaGaleria(novasFotos)
     }

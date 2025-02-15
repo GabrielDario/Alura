@@ -92,8 +92,11 @@ BARRA LATERAL - GALEERIA - Expandir
 SEMANAL - 122,78
 ------------------------------------------
 10/02 - 06:09,9:51,8:12,19:23
-11/02 - 3:41,50:00(Prática) Conclusao,Praticando , começandp 22:50 (Tags)
-13/02 - 22:24 Tags
+11/02 - 3:41,50:00(Prática) Conclusao,Praticando 
+13/02 - 40:00(Prática),25:09 - DESAFIO USAR ORGANO PARA USAR REDUCER NO FORMULARIO?
+14/02 - 3:27,7:38,4:56,6:59
+
 
 SEMANAL - Favoritar,praticar fazendo rodape e filtro pesquisa
+Gerenciar estados globais, useReducer, popdrilling, context api
 ------------------------------------------
