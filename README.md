@@ -32,25 +32,25 @@ SEMANAL - 70,64 MINUTOS
 16/12 8:59, 25:40,11:32, 11:44
 organizando projeto, form.label,parametros..
 
-SEMANA - 56,75
+SEMANA - 56,75 MINUTOS
 ------------------------------------------
 23/12 5:43,20:23 Listas de time
 26/12 10:10,8:56 ,11:23 ,17:56, 11:11
 Botao Interação,PROPS,maps,onSubmit,onChange,State
 
-SEMANAL - 84,22
+SEMANAL - 84,22 MINUTOS
 ------------------------------------------
 02/01 - 19:53
 03/01 - 26:31,7:09
 
 TIME,refatorando
-SEMANAL - 52,93
+SEMANAL - 52,93 MINUTOS
 ------------------------------------------
 07/01 - 9:14, 15:56
 Card, Mapeando Colaborador
 09/01 - 10:28
 
-SEMANAL - 34,88
+SEMANAL - 34,88 MINUTOS
 ------------------------------------------
 13/01 - 7:42,7:27,4:03
 Corrigindo e depurando,vercel
@@ -63,14 +63,14 @@ Criando ids com package,deletando colaborador
 Criando time
 16/01 12:21,11:20,18:19,2:31
 
-SEMANAL - 163,03
+SEMANAL - 163,03 MINUTOS
 ------------------------------------------
 20/01 - 27:28 , 60:00 (Prática)
 Hooks (adicional)
 23/01 - 2:35,4:24,6:06,3:03,5:01,7:39,10:58,9:28
 SPA,React Router...
 
-SEMANAL - 135,22
+SEMANAL - 135,22 MINUTOS
 ------------------------------------------
 27/01 - 8:21,11:27,8:13,10:20
 28/01 - 8:45,5:25,5:34,7:51
@@ -79,7 +79,7 @@ SEMANAL - 135,22
 OUTLET - ROTA ALINHAMENTE,ROTA PAI
 Post, Outros posts,Github,styled component
 
-SEMANAL - 133,82
+SEMANAL - 133,82 MINUTOS
 ------------------------------------------
 03/02 - 12:59,9:20
 04/02 - 11:47,8:48,8:33,14:19
@@ -89,7 +89,7 @@ SEMANAL - 133,82
 
 BARRA LATERAL - GALEERIA - Expandir
 
-SEMANAL - 122,78
+SEMANAL - 122,78 Minutos 
 ------------------------------------------
 10/02 - 06:09,9:51,8:12,19:23
 11/02 - 3:41,50:00(Prática) Conclusao,Praticando 
@@ -97,6 +97,14 @@ SEMANAL - 122,78
 14/02 - 3:27,7:38,4:56,6:59
 
 
-SEMANAL - Favoritar,praticar fazendo rodape e filtro pesquisa
+Favoritar,praticar fazendo rodape e filtro pesquisa
 Gerenciar estados globais, useReducer, popdrilling, context api
+
+SEMANAL - 183,25 Minutos
 ------------------------------------------
+17/02 - 5:24, 5:58,11:00, 6:22
+
+Usando e inserindo context
+SEMANAL 
+------------------------------------------
+
