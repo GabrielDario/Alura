@@ -103,8 +103,10 @@ Gerenciar estados globais, useReducer, popdrilling, context api
 SEMANAL - 183,25 Minutos
 ------------------------------------------
 17/02 - 5:24, 5:58,11:00, 6:22
+18/02 - 9:03,9:29
 
-Usando e inserindo context
+Usando e inserindo context,hook customizado
+
 SEMANAL 
 ------------------------------------------
 
