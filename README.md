@@ -107,6 +107,9 @@ SEMANAL - 183,25 Minutos
 20/02 - 3:55 , 6:39
 Usando e inserindo context,hook customizado
 
-SEMANAL 
+SEMANAL - 56,3
 ------------------------------------------
+25/02 - 5:24,4:44,5:44,5:45
 
+SEMANAL - Reduce com context
+------------------------------------------
