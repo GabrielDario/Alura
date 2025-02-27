@@ -110,6 +110,8 @@ Usando e inserindo context,hook customizado
 SEMANAL - 56,3
 ------------------------------------------
 25/02 - 5:24,4:44,5:44,5:45
+26/02 - 04:26, 4:45,10:46,11:56
 
-SEMANAL - Reduce com context
+SEMANAL - Reduce com context,useMemo,use Personalizado,useReducer
+dispatchlll
 ------------------------------------------
