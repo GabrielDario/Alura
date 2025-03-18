@@ -124,9 +124,15 @@ SEMANAL 0
 13/03 - 5:22,7:11,12:43,6:11,2:42,12:47
 14/03 - 8:45,4:00,4:26, 3:46, 4:12, 3:33
 
-SEMANAL - 
-
 routes, rota aninhada, useParams,OutLET
+
+SEMANAL - 141,1
 ------------------------------------------
+React Native
+17/03 - 2:09, 5:53, 8:18, 4:58, 7:25
+
+React native,como ele funciona,o que ele é
+o que ele faz,iniciando npx create EXPO
+resentando,
 ------------------------------------------
 ------------------------------------------
