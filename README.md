@@ -129,10 +129,12 @@ routes, rota aninhada, useParams,OutLET
 SEMANAL - 141,1
 ------------------------------------------
 React Native
-17/03 - 2:09, 5:53, 8:18, 4:58, 7:25
+17/03 - 2:09, 5:53, 8:18, 4:58, 7:25,12:58, 15:04
+18/03 - 3:28, 8:14, 9:15, 6:32
+
 
 React native,como ele funciona,o que ele é
 o que ele faz,iniciando npx create EXPO
-resentando,
+resentando,StyleSheet x CSS são diferentes
 ------------------------------------------
 ------------------------------------------
