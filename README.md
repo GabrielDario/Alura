@@ -130,11 +130,13 @@ SEMANAL - 141,1
 ------------------------------------------
 React Native
 17/03 - 2:09, 5:53, 8:18, 4:58, 7:25,12:58, 15:04
-18/03 - 3:28, 8:14, 9:15, 6:32
+18/03 - 3:28, 8:14, 9:15, 6:32,
+19/03 - 6:33 , 7:52, 6:16, 4:08, 6:25, 11:13, 9:00, 2:01
 
 
 React native,como ele funciona,o que ele é
 o que ele faz,iniciando npx create EXPO
 resentando,StyleSheet x CSS são diferentes
+Componentização, useRef
 ------------------------------------------
 ------------------------------------------
