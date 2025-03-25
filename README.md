@@ -138,5 +138,16 @@ React native,como ele funciona,o que ele é
 o que ele faz,iniciando npx create EXPO
 resentando,StyleSheet x CSS são diferentes
 Componentização, useRef
+
+SEMANAL - 134,62
 ------------------------------------------
+Migrando para typescript 
+
+24/03 - 2:12, 7:30, 3:51, 14:20, 10:44'
+25/03 - 
+26/03 - 
+27/03 - 
+
+Tipagem
+SEMANAL - 
 ------------------------------------------
