@@ -140,16 +140,22 @@ resentando,StyleSheet x CSS são diferentes
 Componentização, useRef
 
 SEMANAL - 134,62
-------------------------------------------
+-----------------------------------------
+Estudando typescript, mysql,github
+e projeto pessoal gabrieldariodev.com
 Migrando para typescript 
 
 24/03 - 2:12, 7:30, 3:51, 14:20, 10:44'
 25/03 - 9:08, 12:21, 3:41, 14:06, 6:37,15:21
 26/03 - Pessoal - 2:52, 1:25
 27/03 - 8:34, 9:02
-28/03 - 
+28/03 - gIT7:07,4:51, 8:08, 13:23
 29/03 -
 
-Tipagem, " SQL
-SEMANAL - 
+Tipagem,  SQL
+SEMANAL - 151,93
 ------------------------------------------
+Agenda da Semana
+
+TypeScript,Mysql e Guthub
+31/01 - 09:08, 8:21, 9:25, 6:04 
