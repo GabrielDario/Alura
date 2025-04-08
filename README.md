@@ -165,11 +165,11 @@ TypeScript,Mysql e Guthub
 SEMANAL - 64,12
 ------------------------------------------
 Agenda da Semana
-
 TypeScript,Mysql e Guthub
+Projeto Meu Site
 
-07/04 - 4:42, 4:38,3:08, 6:15
-08/04 - 
+07/04 - 4:42, 4:38,3:08, 6:15, 7:56
+08/04 - 5:56, 7:08,5:05,5:17, 5:30
 08/04 - 
 08/04 -  
 08/04 - 
