@@ -198,3 +198,4 @@ TypeScript,Mysql e Guthub(Voltando)
 
 26/05 - 4:21,5:20,2:13
 27/50 - 2:11, 5:24, 5:04,8:19
+DD
