@@ -180,7 +180,6 @@ TypeScript,Mysql e Guthub
 14/04 - 3:57,4:17, 5:27, 4:12, 5:58
 ------------------------------------------
 ------------------------------------------
-------------------------------------------
 Agenda da Semana
 TypeScript,Mysql e Guthub(Voltando)
 
@@ -191,3 +190,11 @@ Agenda da Semana
 TypeScript,Mysql e Guthub(Voltando)
 
 19/05 - 04:02,3:14,2:42,5:35,5:03,2:59,4:07
+
+SEMANAAL 21:62
+------------------------------------------
+Agenda da Semana
+TypeScript,Mysql e Guthub(Voltando)
+
+26/05 - 4:21,5:20,2:13
+27/50 - 2:11, 5:24, 5:04,8:19
