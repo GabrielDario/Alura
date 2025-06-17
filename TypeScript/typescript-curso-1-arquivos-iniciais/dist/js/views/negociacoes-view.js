@@ -17,7 +17,7 @@ export class NegociacoesView {
         </tablee>
         `;
     }
-    update() {
+    update(model) {
         this.elemento.innerHTML = this.template();
     }
 }
