@@ -204,3 +204,8 @@ TypeScript,Mysql e Guthub(Voltando de novo kk)
 
 16/06 - 3:35,9:06,3:46
 18/06 - 7:11,1:43,7:10
+------------------------------------------
+Agenda da Semana
+TypeScript,Mysql e Guthub(Voltando de novo kk)
+
+23/06 - 5:11,4:59

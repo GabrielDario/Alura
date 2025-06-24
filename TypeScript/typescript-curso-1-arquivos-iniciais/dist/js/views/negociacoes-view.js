@@ -1,4 +1,4 @@
-import { View } from "./view.js";
+import { View } from './view.js';
 export class NegociacoesView extends View {
     template(model) {
         return `
@@ -13,20 +13,21 @@ export class NegociacoesView extends View {
             <tbody>
                 ${model.lista().map(negociacao => {
             return `
-                    <tr>
-                    <td>${new Intl.DateTimeFormat().format(negociacao.data)}</td>
-                    <td>${negociacao.quantidade}</td>
-                    <td>${negociacao.valor}</td>
-                    </tr>
+                        <tr>
+                            <td>${new Intl.DateTimeFormat()
+                .format(negociacao.data)}
+                            </td>
+                            <td>
+                                ${negociacao.quantidade}
+                            </td>
+                            <td>
+                                ${negociacao.valor}
+                            </td>
+                        </tr>
                     `;
         }).join('')}
-            </tboy>
-        </tablee>
+            </tbody>
+        </table>
         `;
-    }
-    update(model) {
-        const template = this.template(model);
-        console.log(template);
-        this.elemento.innerHTML = template;
     }
 }
