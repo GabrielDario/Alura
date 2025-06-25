@@ -209,3 +209,6 @@ Agenda da Semana
 TypeScript,Mysql e Guthub(Voltando de novo kk)
 
 23/06 - 5:11,4:59
+24/06 - 7:25,4:32
+
+TIPO GENERICO, co
