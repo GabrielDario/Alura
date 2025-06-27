@@ -210,5 +210,6 @@ TypeScript,Mysql e Guthub(Voltando de novo kk)
 
 23/06 - 5:11,4:59
 24/06 - 7:25,4:32
+26/06 - 4:35,5:02,4:45,4:
 
 TIPO GENERICO, co
