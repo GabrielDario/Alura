@@ -191,25 +191,35 @@ TypeScript,Mysql e Guthub(Voltando)
 
 19/05 - 04:02,3:14,2:42,5:35,5:03,2:59,4:07
 
-SEMANAAL 21:62
+SEMANAL -  21:62
 ------------------------------------------
 Agenda da Semana
 TypeScript,Mysql e Guthub(Voltando)
 
 26/05 - 4:21,5:20,2:13
 27/50 - 2:11, 5:24, 5:04,8:19
+SEMANAL -  32:12
 ------------------------------------------
 Agenda da Semana
 TypeScript,Mysql e Guthub(Voltando de novo kk)
 
 16/06 - 3:35,9:06,3:46
 18/06 - 7:11,1:43,7:10
+
+SEMANAL -   31,51
 ------------------------------------------
 Agenda da Semana
 TypeScript,Mysql e Guthub(Voltando de novo kk)
 
 23/06 - 5:11,4:59
 24/06 - 7:25,4:32
-26/06 - 4:35,5:02,4:45,4:
+26/06 - 4:35,5:02,4:45
 
-TIPO GENERICO, co
+TOTAL - 35:09
+------------------------------------------
+Agenda da Semana
+TypeScript,Mysql e Guthub
+
+30/06 - 4:52,4:20,7:10,4:16
+
+Dias úteis date,Enums
