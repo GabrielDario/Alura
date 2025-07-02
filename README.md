@@ -220,6 +220,8 @@ TOTAL - 35:09
 Agenda da Semana
 TypeScript,Mysql e Guthub
 
-30/06 - 4:52,4:20,7:10,4:16
+30/06 - 4:52,4:20,7:10,4:16,3:50
+01/07 - 6:01,5:23
+
 
 Dias úteis date,Enums
