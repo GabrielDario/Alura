@@ -218,12 +218,21 @@ TypeScript,Mysql e Guthub(Voltando de novo kk)
 TOTAL - 35:09
 ------------------------------------------
 Agenda da Semana
-TypeScript,Mysql e Guthub
+TypeScript
 
 30/06 - 4:52,4:20,7:10,4:16,3:50
 01/07 - 6:01,5:23
 02/07 - 7:52,4:22,4:16,3:23
-03/70 - 4:33,5:26,4:34,4:25,6:24,1:54
+03/70 - 4:33,5:26,4:34,4:25,6:24,1:54,3:45
 
 
 Dias úteis date,Enums,StrictNullCheck,Tirar comentannrios na hora de compilar
+
+TOTAL 83,26
+------------------------------------------
+Agenda da Semana
+Sistema SAP
+
+07/07 - 4:22,8:03,11:30
+
+Introdução SAP
