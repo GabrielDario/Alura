@@ -242,6 +242,6 @@ Agenda da Semana
 Sistema SAP
 
 22/07 - 7:07, 11:17, 9:26. 12:12
-
-Introdução SAP, Estrutura..
+23/07 - 9:11,7:33,10:20
+Introdução SAP, Estrutura,ASAP
 ------------------------------------------
