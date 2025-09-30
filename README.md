@@ -243,5 +243,13 @@ Sistema SAP
 
 22/07 - 7:07, 11:17, 9:26. 12:12
 23/07 - 9:11,7:33,10:20
+24/07 - Trabalhando no site
+
 Introdução SAP, Estrutura,ASAP
 ------------------------------------------
+
+Terminando TS 3 para ir Carreira Front end,Github e Metodologia ágil
+
+29/09 - 3:36,6:17,6:07
+
+Mudando estrututura dados dist dentro app
