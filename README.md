@@ -251,5 +251,6 @@ Introdução SAP, Estrutura,ASAP
 Terminando TS 3 para ir Carreira Front end,Github e Metodologia ágil
 
 29/09 - 3:36,6:17,6:07
-
+30/09 - 4:09
 Mudando estrututura dados dist dentro app
+decorator,controle de performace
