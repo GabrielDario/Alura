@@ -260,3 +260,11 @@ TS - Decorators
 
 TS3 
 10/11 - Revisando os anteriores, 8:23,3:14
+
+------------------------------------------
+TS -DECORATIOS
+
+01/12 - 5:19,7:23, 4:32
+
+Decorators com parametro,Decorators que analisa dados do seu método
+ordem de como ele é executado
