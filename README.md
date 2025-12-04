@@ -265,7 +265,8 @@ TS3
 TS -DECORATIOS
 
 01/12 - 5:19,7:23, 4:32,3:45 
-02/12 - 3:45,10:06,6:16,4:23
+02/12 - 3:45,10:06,6:16,4:23,4:51
 
 Decorators com parametro,Decorators que analisa dados do seu método
-ordem de como ele é executado
+ordem de como ele é executado,decorators antes no método agora vai
+ser na instancia,criando getters dinamicamente,como acessar get na proxima
