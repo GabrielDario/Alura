@@ -10,8 +10,8 @@ export function escapar(
             /*
             console.log(`@escape em ação na classe 
                 ${this.constructor.name} para o método ${propertyKey} `);
-           */
-               retorno = retorno
+            */
+            retorno = retorno
                 .replace(/<script>[\s\S]*?<\/script>/, '');
         }
         return retorno;
