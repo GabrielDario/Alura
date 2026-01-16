@@ -273,12 +273,13 @@ ser na instancia,criando getters dinamicamente,como acessar get na proxima
 
 ------------------------------------------
 
-TS 3- DECORATORS VOLTANDO - indo para 4
+TS 3- DECORATORS VOLTANDO - indo para 4 TERMINADO
+GITHUB CONCEITOS
 
 12/01 - RESIVANDO.. 7:24, 4:50,7:26,
 13/01 - 3:33,4:29,10:25,7:32,8:10
 15/01 - 8:12,5:55,8:35,6:40,9:04,8:33,5:29,5:26
-
+16/01 - 2:13,7:07,4:51,8:08
 dom inject para injetar id diretamento query selector
 Como evitar código duplicado,Decorator de propriedade,Criação dinâmica de getters
 O uso de Object.defineProperty,Cache de decorators .INDO PARA 3.4
