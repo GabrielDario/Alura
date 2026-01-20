@@ -274,7 +274,7 @@ ser na instancia,criando getters dinamicamente,como acessar get na proxima
 ------------------------------------------
 
 TS 3- DECORATORS VOLTANDO - indo para 4 TERMINADO
-GITHUB CONCEITOS
+GITHUB CONCEITOS - Terminado
 
 12/01 - RESIVANDO.. 7:24, 4:50,7:26,
 13/01 - 3:33,4:29,10:25,7:32,8:10
@@ -287,3 +287,7 @@ formatando console.log
 Polimorfismo typeSeft - Classe abstrata para obrigar a usar método
 Comparação entre Objetos.
 SourceMap para debuggar ,modificar arquivo jsonconfig
+------------------------------------------
+CARREIRA FRONT END 
+
+19/01 -  1:41,9:45
