@@ -291,6 +291,7 @@ SourceMap para debuggar ,modificar arquivo jsonconfig
 CARREIRA FRONT END 
 
 19/01 -  1:41,9:45,10:24,8:37
-20/01 - 12:25,8:50,9:05,
+20/01 - 12:25,8:50,9:05
+21/01 - 9:57, 14:26,7:23
 
 JSX, componentes,props(propriedade)
