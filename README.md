@@ -294,4 +294,7 @@ CARREIRA FRONT END
 20/01 - 12:25,8:50,9:05
 21/01 - 9:57, 14:26,7:23
 22/01 - 6:31,8:42,8:12
+23/01 - 7:42,7:52
+
 JSX, componentes,props(propriedade)
+iterando listas,map,estelização,figma
