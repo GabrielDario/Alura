@@ -1,0 +1,6 @@
+.card-evento {
+    background-color: #212121;
+    display: flex;
+    flex-direction: column;
+    width: 282px;
+}

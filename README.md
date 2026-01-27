@@ -280,6 +280,7 @@ GITHUB CONCEITOS - Terminado
 13/01 - 3:33,4:29,10:25,7:32,8:10
 15/01 - 8:12,5:55,8:35,6:40,9:04,8:33,5:29,5:26
 16/01 - 2:13,7:07,4:51,8:08
+
 dom inject para injetar id diretamento query selector
 Como evitar código duplicado,Decorator de propriedade,Criação dinâmica de getters
 O uso de Object.defineProperty,Cache de decorators .INDO PARA 3.4
@@ -287,9 +288,10 @@ formatando console.log
 Polimorfismo typeSeft - Classe abstrata para obrigar a usar método
 Comparação entre Objetos.
 SourceMap para debuggar ,modificar arquivo jsonconfig
-------------------------------------------
-CARREIRA FRONT END 
 
+TOTAL SEMANAL 130,42
+------------------------------------------
+Carreira front end - react  19 jsx
 19/01 -  1:41,9:45,10:24,8:37
 20/01 - 12:25,8:50,9:05
 21/01 - 9:57, 14:26,7:23
@@ -298,3 +300,13 @@ CARREIRA FRONT END
 
 JSX, componentes,props(propriedade)
 iterando listas,map,estelização,figma
+
+TOTAL SEMANAL 128,12
+------------------------------------------
+Carreira front end - react  19 jsx
+
+Segundo de emprego e vestibular-enem
+26/01 - 8:17,8:50,8:58,8:07
+
+Formulario,submit,listando evento
+------------------------------------------
