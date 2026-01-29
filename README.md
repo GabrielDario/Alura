@@ -308,6 +308,7 @@ Carreira front end - react  19 jsx
 Segundo de emprego e vestibular-enem
 26/01 - 8:17,8:50,8:58,8:07
 27/01 - 9:41,24:37
+29/01 - 2:54, 5:25, 4:02,3:00
 
 Formulario,submit,listando evento,
 UseState - estado
