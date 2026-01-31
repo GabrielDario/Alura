@@ -309,7 +309,10 @@ Segundo de emprego e vestibular-enem
 26/01 - 8:17,8:50,8:58,8:07
 27/01 - 9:41,24:37
 29/01 - 2:54, 5:25, 4:02,3:00
-
+30/01 - 5:25,4:22,7:13,8:06,3:47
 Formulario,submit,listando evento,
-UseState - estado
+UseState - estado - GIT - adicionando comitando enviando e pegando projeto
+adicionando pessoas
+
+TOTAL SEMANAL 1 hora, 52 minutos e 44 segundos
 ------------------------------------------
