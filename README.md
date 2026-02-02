@@ -314,5 +314,11 @@ Formulario,submit,listando evento,
 UseState - estado - GIT - adicionando comitando enviando e pegando projeto
 adicionando pessoas
 
-TOTAL SEMANAL 1 hora, 52 minutos e 44 segundos
+TOTAL SEMANAL hora, 52 minutos e 44 segundos
 ------------------------------------------
+React utilizando Hooks para gerenciar estado    
+
+02/02 - 2:31,5:25,10:17,5:21,8:32
+
+Dialog,useRef, arrowFuncition 'simpplificado'
+Modal,função dentro de função
