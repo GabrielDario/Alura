@@ -319,6 +319,7 @@ TOTAL SEMANAL hora, 52 minutos e 44 segundos
 React utilizando Hooks para gerenciar estado    
 
 02/02 - 2:31,5:25,10:17,5:21,8:32
+03/02 - 7:25,9:04,10:49,10:21,16:34,5:45
 
 Dialog,useRef, arrowFuncition 'simpplificado'
-Modal,função dentro de função
+Modal,função dentro de função,useEffect
