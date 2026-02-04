@@ -320,6 +320,8 @@ React utilizando Hooks para gerenciar estado
 
 02/02 - 2:31,5:25,10:17,5:21,8:32
 03/02 - 7:25,9:04,10:49,10:21,16:34,5:45
+04/02 - 19:25,13:34,9:08,7:55,9:06
 
 Dialog,useRef, arrowFuncition 'simpplificado'
-Modal,função dentro de função,useEffect
+Modal,função dentro de função,useEffect,useState
+propDilling e padronização,Context api(proximo capitulo)
