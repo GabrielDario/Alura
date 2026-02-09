@@ -314,7 +314,7 @@ Formulario,submit,listando evento,
 UseState - estado - GIT - adicionando comitando enviando e pegando projeto
 adicionando pessoas
 
-TOTAL SEMANAL hora, 52 minutos e 44 segundos
+TOTAL SEMANAL 1hora, 52 minutos e 44 segundos
 ------------------------------------------
 React utilizando Hooks para gerenciar estado    
 
@@ -325,3 +325,13 @@ React utilizando Hooks para gerenciar estado
 Dialog,useRef, arrowFuncition 'simpplificado'
 Modal,função dentro de função,useEffect,useState
 propDilling e padronização,Context api(proximo capitulo)
+obs NOTICIA DA FACULDADE
+
+2 horas, 21 minutos e 12 segundos
+------------------------------------------
+React Context
+
+09/02 - 6:10, 13:14, 10:21
+
+Provider, localStorage
+------------------------------------------
