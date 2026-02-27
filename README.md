@@ -335,5 +335,6 @@ React Context
 
 Provider, localStorage
 ------------------------------------------
-
+terminando react-doente e github
 23/02 - 11:43,5:07,4:53,7:54
+27/02 - 6:15
